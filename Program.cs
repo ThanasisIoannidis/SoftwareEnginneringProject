@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome malaka");
+Console.WriteLine("Welcome");
 Console.WriteLine("Enter username:");
 string userName = Console.ReadLine();
 if (userName == "userName")
